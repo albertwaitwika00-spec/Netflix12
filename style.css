@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.main{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    color: red;
+    margin-top: 300px;
+    font-size: 150px;
+    margin-left:400px;
+    font-weight: 200;
+    margin-bottom: 300px;
+
+}
