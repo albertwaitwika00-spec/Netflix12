@@ -2,6 +2,7 @@ body{
     background-color: black;
 }
 .main{
+    display:flex;
     width: 150px;
     height: 150px;
     margin: 0 auto;
