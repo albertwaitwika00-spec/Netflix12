@@ -1,12 +1,12 @@
 body{
-    background-color: black;
+    background-color: red;
 }
 .main{
     display:flex;
     width: 150px;
     height: 150px;
     margin: 0 auto;
-    color: red;
+    color: white;
     margin-top: 300px;
     font-size: 150px;
     margin-left:400px;
