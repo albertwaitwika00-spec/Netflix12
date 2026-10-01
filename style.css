@@ -2,7 +2,7 @@ body{
     background-color: red;
 }
 .main{
-    display:flex;
+    display:flexbox;
     width: 150px;
     height: 150px;
     margin: 0 auto;
