@@ -6,13 +6,13 @@ body{
     width: 150px;
     height: 150px;
     margin: 0 auto;
-    color: white;
+    color: black;
     margin-top: 300px;
     font-size: 150px;
     margin-left:400px;
     font-weight: 200;
     margin-bottom: 300px;
     font-family:times new roman;
-    text-shadow:4px 4px black;
+    text-shadow:4px 4px white;
     padding-top:40px;
 }
